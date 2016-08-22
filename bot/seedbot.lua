@@ -218,7 +218,7 @@ function create_config( )
     "text_launcher",
     "launcher"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {199471668},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Check our github 
