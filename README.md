@@ -1,10 +1,10 @@
-# [pika launcher](https://telegram.me/pika_launcher)
-
+# [Wolf Launcher](https://telegram.me/pika_launcher)
+(سورس مخصوص سوپر گپ نیز هست)
 
 **An advanced and powerful launcher cli bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 
-[![https://telegram.me/Blackwolf_admin](https://img.shields.io/badge/💬_mohamad-developer-blue.svg)](https://telegram.me/Blackwolf_admin) 
-[![https://telegram.me/open_sources](https://img.shields.io/badge/💬_telegram-channel-green.svg)](https://telegram.me/open_sources) 
+
+[![https://telegram.me/Telewolf_ch](https://img.shields.io/badge/💬_telegram-channel-green.svg)](https://telegram.me/Telewolf_ch) 
 
 # مزایا
 
@@ -24,7 +24,7 @@
 * **مرحله اول**
 
 خب اول از همه سورس فایل منیجر تله سید رو نصب کنید
->###**[file-manager-bot](https://www.github.com/blackwolfadmin/server-manager)**
+>###**[file-manager-bot](https://www.github.com/telewolf653/server-manager)**
 >>حتما ایدی ربات لانچر رو داخلش به عنوان ادمین قرار بدید
 >>>این ربات نقش کنترل سرور شما رو داره که ربات لانچر ما به اون وصل میشه
 >>>>ربات فایل منیجر را داخل همون یوزر از سرور ران کنید که ربات آنتی اسپمتون داخلش ران هست
@@ -32,9 +32,9 @@
 
 * **مرحله دوم** 
 
-به پوشه رباتتون اضافه کنید که نقش یک لانچ رو داشته باشه **[etc](http://telegram.me/open_sources/8)** در این قسمت شما باید یک فایل به نام 
+به پوشه رباتتون اضافه کنید که نقش یک لانچ رو داشته باشه **[etc](https://telegram.me/luaforyou/6* در این قسمت شما باید یک فایل به نام 
 
->##[Download etc file](http://telegram.me/open_sources/8)
+>##[Download etc file](https://telegram.me/luaforyou/6)
 >> فایل رو به پوشه اصلی رباتتون اضافه کنید 
 >>>اسم یوزر سرور خودتون رو جاش بزارید **serveruser** به جای pika.conf پوشه را باز کنید و داخل فایل 
 >>>> !دست نزنید telegrambotpath نکته : به 
@@ -95,8 +95,6 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 امید وارم براتون مفید باشه و مشکل شما دوستان رو حل کنه 
 
-[![https://telegram.me/Blackwolf_admin](https://img.shields.io/badge/💬_mohamad-developer-orange.svg)](https://telegram.me/Blackwolf_admin) 
-[![https://telegram.me/open_sources](https://img.shields.io/badge/💬_telegram-channel-red.svg)](https://telegram.me/open_sources) 
 
 سوالی داشتید در خدمتم 
 
