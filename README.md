@@ -99,3 +99,9 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 سوالی داشتید در خدمتم 
 
 موفق باشید
+
+
+
+
+special thanks to blackwolf admin:)
+my best friend :|
