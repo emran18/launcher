@@ -1,6 +1,6 @@
 local function run(msg)
 if msg.text == "/shell restart pika" then
-	return '!launch 5m restart pika'-- you can put everything for time launch!
+	return '!launch 1m restart pika'-- you can put everything for time launch!
 end
 end
 return {
