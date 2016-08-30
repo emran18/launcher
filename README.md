@@ -1,5 +1,6 @@
 # [Wolf Launcher](https://telegram.me/pika_launcher)
 (سورس مخصوص سوپر گپ نیز هست)
+ولی بهتره تو گروه معمولی راه اندازی بشه
 
 **An advanced and powerful launcher cli bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 
@@ -85,7 +86,7 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 حالا کافیه دستور زیر را داخل گروه وارد کنید تا ربات لانچر هر 15 دقیقه که به طور پیش فرض تنظیم کردم رو به صورت خودکار ربات شما رو لانچ کنه که دیگه آفلاین نشه
 
->`/launch 15m restart pika`
+>`/launch 1m restart pika`
 >> از این دستور فقط و فقط یک بار در گروه استفاده کنید ، در غیر این صورت در هر 15 دقیقه  رباتتون بیشتر لانچ میشه
 >>>استفاده کنید که هر 15 دقیقه یک پروکسس جدید برای لانچ ربات ساخته بشود restart pika فقط از دستور 
 
